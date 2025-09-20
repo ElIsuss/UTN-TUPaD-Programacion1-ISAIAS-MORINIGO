@@ -1,0 +1,1 @@
+Lo que hace el programa es, en la lista, busca el valor mas grande para despues (con el comando .remove) eliminar ese valor y finalmente imprimir la lista 
